@@ -5,7 +5,7 @@ from telegram import (
     ReplyKeyboardMarkup
 )
 from telegram.ext import Application, ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters, CallbackQueryHandler
-Token: Final = '7682139916:AAG6bjUzxZcUv7Tg4ajrBytMCFEdq1WuA8I'
+Token: Final = ''
 BOT_USERNAME: Final = '@Grow_to_wholeness_bot'
 
 # Define menus
